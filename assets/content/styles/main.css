@@ -1,0 +1,7 @@
+div#Main{
+    margin-top: 2px;
+    display: flex;
+    width: 98vw;
+    height: 1200px;
+    background-color: #E8E8E8;
+}

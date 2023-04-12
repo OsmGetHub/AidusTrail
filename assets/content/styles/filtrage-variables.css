@@ -1,0 +1,20 @@
+div#secteur,div#region,div#entreprise{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+span.variable{
+    border:1px solid black;
+    margin: 2.5px;
+    background-color:#D2F0CC;
+    font-family:Arial Rounded MT;
+    font-size:15px;
+    color:black;
+    padding:4px 8px;
+    border-radius:5px
+}
+
+span.variable a {
+    margin-left: 4px;
+}
